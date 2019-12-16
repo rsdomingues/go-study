@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Removing application genereted files
+deck.txt
+
 # Test binary, built with `go test -c`
 *.test
 
